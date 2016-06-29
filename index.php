@@ -16,4 +16,6 @@ class test
     public function index(){
         echo "hello world";
     }
+	
+	public
 }
